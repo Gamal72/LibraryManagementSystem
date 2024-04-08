@@ -1,5 +1,3 @@
-![image](https://github.com/MohamedRadyA/LibraryManagementSystem/assets/42236845/b091c8c9-15c5-4480-9df0-8100bb60d187)# LibraryManagementSystem
-
 # Library Management System (LMS) - C# WinForms
 
 The Library Management System is a comprehensive software solution designed to simplify and automate the management of library operations. Developed using C# WinForms, this system provides a user-friendly interface for both librarians and library members. It includes features for user registration, book management, and book borrowing, ensuring a smooth and efficient library experience. By leveraging advanced SQL queries, including joins and subqueries, the system guarantees efficient data retrieval and manipulation, making it an ideal choice for libraries looking to modernize their operations.
